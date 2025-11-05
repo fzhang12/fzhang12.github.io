@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing tags functionality"
-date: 2025-06-18 10:00:00 +0800
+date: 2025-11-05 10:00:00 +0100
 tags: [bioinformatics, python]
 excerpt: "A second test post to verify tags work with multiple tags and multiple posts."
 ---
