@@ -2,7 +2,6 @@
 layout: post
 title: "My first post"
 date: 2025-11-04 09:00:00 +0100
-categories: programming
 tags: [intro]
 excerpt: "A quick hello to confirm Minima is working and excerpts show."
 ---
