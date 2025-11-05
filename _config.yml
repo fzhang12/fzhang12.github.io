@@ -1,3 +1,17 @@
 theme: minima
-title: Fengjun's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: FJZ Bioinfo Notes
+description: 
+author: Dr. rer. nat. Fengjun Zhang
+
+# Minima options
+show_excerpts: true
+
+# Navigation
+header_pages:
+  - about.md
+  - tags/index.md
+
+# Optional social links (uncomment and fill later)
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/fzhang12" }

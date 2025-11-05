@@ -1,0 +1,47 @@
+/* Custom styles for tags and categories */
+
+.post-meta-tags {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.post-categories,
+.post-tags {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+.post-category {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  margin: 0.2rem 0.2rem 0.2rem 0;
+  background-color: #e8e8e8;
+  border-radius: 3px;
+  font-weight: 500;
+  color: #333;
+}
+
+.post-tag {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  margin: 0.2rem 0.2rem 0.2rem 0;
+  background-color: #f0f0f0;
+  border-radius: 3px;
+  color: #0066cc;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+
+.post-tag:hover {
+  background-color: #e0e0e0;
+  text-decoration: none;
+}
+
+.post-tags strong,
+.post-categories strong {
+  margin-right: 0.5rem;
+  color: #666;
+  font-weight: 600;
+}
+
