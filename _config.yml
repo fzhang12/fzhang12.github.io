@@ -6,7 +6,7 @@ author: Dr. rer. nat. Fengjun Zhang
 # Minima options
 show_excerpts: true
 
-# Navigation
+# Navigation (top right corner)
 header_pages:
   - about.md
   - tags/index.md
