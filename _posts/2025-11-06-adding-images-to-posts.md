@@ -12,7 +12,7 @@ This post demonstrates how to add images to your Jekyll blog posts.
 
 Here's how you add an image using markdown:
 
-![My photo](/assets/images/befaa11362740ac5993fc7ab86605b4b61a07a616134f9063a094a4a285b6ff8.png)
+![Workflow diagram](/assets/images/workflow-diagram.jpg)
 
 The syntax is: `![Alt text](/path/to/image.jpg)`
 
