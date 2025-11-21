@@ -1,7 +1,12 @@
 theme: minima
 title: FJZ Bioinfo Notes
-description: 
+description: Bioinformatics notes, tutorials, and insights by FJZ
 author: Dr. rer. nat. Fengjun Zhang
+url: https://fzhang12.github.io
+
+# Plugins
+plugins:
+  - jekyll-feed
 
 # Minima options
 show_excerpts: true
